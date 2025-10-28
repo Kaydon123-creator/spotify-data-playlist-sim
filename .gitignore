@@ -1,0 +1,12 @@
+# Ignore Python virtual environments
+.venv/
+**/.venv/
+# Ignore macOS Finder settings
+.DS_Store
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore Python bytecode
+*.pyc
+__pycache__/
